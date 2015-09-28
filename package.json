@@ -1,0 +1,13 @@
+{
+  "title": "AAB Table",
+  "name": "aabtable",
+  "version": "0.0.1",
+  "description": "Transaction table for ÅAB",
+  "main": "index.js",
+  "author": "Per Johansson",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
